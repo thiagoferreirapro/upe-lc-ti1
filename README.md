@@ -2,7 +2,7 @@
 # Tópicos Integradores I
 Repositório da disciplina Tópicos Integradores I, Curso de Licenciatura em Computação, UPE Campus Garanhuns
 
-[**SLIDES**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/slides)  |  [**EXERCÍCIOS**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/exercises)  |  [**FERRAMENTAS**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/tools) |  [**Projetos**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/projects)
+[**SLIDES**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/slides)  |  [**EXERCÍCIOS**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/exercises)  |  [**FERRAMENTAS**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/tools) |  [**PROJETOS**](https://github.com/cmrevoredo/upe-lc-ti1/tree/master/projects)
 
 **Professor:** Carlo Marcelo
 
